@@ -1,0 +1,24 @@
+.profile {
+  text-align: center;
+  padding: 20px;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile h2 {
+  margin: 10px 0;
+}
+
+.profile button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
